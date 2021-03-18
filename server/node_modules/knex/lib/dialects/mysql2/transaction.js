@@ -1,7 +1,9 @@
-const Transaction = require('../../execution/transaction');
+const Transaction = require('../../transaction');
 const debug = require('debug')('knex:tx');
 
-class Transaction_MySQL2 extends Transaction {
+class Transaction_MySQL2 extends Transaction {}
+
+Object.assign(Transaction_MySQL2.prototype, {
   query(conn, sql, status, value) {
     const t = this;
     const q = this.trxClient
@@ -38,7 +40,7 @@ class Transaction_MySQL2 extends Transaction {
       t._completed = true;
     }
     return q;
-  }
-}
+  },
+});
 
 module.exports = Transaction_MySQL2;

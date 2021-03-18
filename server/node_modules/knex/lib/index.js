@@ -1,3 +1,3 @@
-const Knex = require('./knex-builder/Knex');
+const Knex = require('./knex');
 
 module.exports = Knex;

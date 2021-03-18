@@ -1,13 +1,6 @@
-const Transaction = require('../../execution/transaction');
+const Transaction = require('../../transaction');
 
 module.exports = class Redshift_Transaction extends Transaction {
-  begin(conn) {
-    if (this.isolationLevel) {
-      return this.query(conn, `BEGIN ISOLATION LEVEL ${this.isolationLevel};`);
-    }
-    return this.query(conn, 'BEGIN;');
-  }
-
   savepoint(conn) {
     this.trxClient.logger('Redshift does not support savepoints.');
     return Promise.resolve();

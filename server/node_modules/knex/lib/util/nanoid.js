@@ -3,8 +3,6 @@
 const urlAlphabet =
   'ModuleSymbhasOwnPr-0123456789ABCDEFGHNRVfgctiUvz_KqYTJkLxpZXIjQW';
 
-const numberAlphabet = '0123456789';
-
 /**
  * Generate URL-friendly unique ID. This method uses the non-secure
  * predictable random generator with bigger collision probability.
@@ -28,13 +26,4 @@ function nanoid(size = 21) {
   return id;
 }
 
-function nanonum(size = 21) {
-  let id = '';
-  let i = size;
-  while (i--) {
-    id += numberAlphabet[(Math.random() * 10) | 0];
-  }
-  return id;
-}
-
-module.exports = { nanoid, nanonum };
+module.exports = { nanoid };
