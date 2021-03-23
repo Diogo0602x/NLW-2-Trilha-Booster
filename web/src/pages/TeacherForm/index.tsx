@@ -2,8 +2,10 @@ import React from 'react';
 
 import PageHeader from '../../components/PageHeader';
 import Input from '../../components/Input';
+import warningIcon from '../../assets/images/icons/warning.svg';
 
 import './styles.css';
+import Textarea from '../../components/Textarea';
 
 function TeacherForm() {
   return (
@@ -27,7 +29,19 @@ function TeacherForm() {
 
           <Input name="subject" label="Matéria"/>
           <Input name="cost" label="Custa da sua hora por aula"/>
+          <Textarea name="bio" label="Biografia" />
       </fieldset>
+
+      <footer>
+            <p>
+              <img src={warningIcon} alt="Aviso importante"/>
+              Importante! <br />
+              preencha todos os dados
+            </p>
+            <button type="submit">
+              Salvar cadastro
+            </button>
+          </footer>
     </main>   
   </div>
   )
