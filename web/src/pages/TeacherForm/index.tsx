@@ -37,7 +37,7 @@ function TeacherForm() {
               <img src={warningIcon} alt="Aviso importante"/>
               Importante! <br />
               preencha todos os dados
-            </p>
+            </p>            
             <button type="submit">
               Salvar cadastro
             </button>
