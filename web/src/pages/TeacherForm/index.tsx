@@ -29,6 +29,18 @@ function TeacherForm() {
     ]);
   }
 
+  function setScheduleItemValue(position: Number, field: string, value: string) {
+    const updatedScheduleItem = scheduleItems.map((scheduleItem, index) =>{
+      if(index === position) {
+        return { ...scheduleItem, [field]: value };
+      }
+
+      return scheduleItem;
+    });
+    
+    console.log(updatedScheduleItem);
+  }
+
   function handleCreateClass(e: FormEvent) {
     e.preventDefault();
     console.log({
@@ -116,12 +128,13 @@ function TeacherForm() {
             </button>
           </legend>
           
-          {scheduleItems.map(scheduleItem => { 
+          {scheduleItems.map((scheduleItem, index) => { 
             return (
               <div key={scheduleItem.week_day} className="schedule-item">
                 <Select 
                   name="week_day" 
                   label="Dia da semana"
+                  onChange={e => setScheduleItemValue(index, 'week_day', e.target.value)}
                   options={[ 
                     { value: '0', label: 'Domingo' },
                     { value: '1', label: 'Segunda-feira' },
