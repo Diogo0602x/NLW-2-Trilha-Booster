@@ -47,20 +47,6 @@
   transition: color 0.2s;
 }
 
-#page-teacher-form main fieldset .input-block + .textarea-block, 
-#page-teacher-form main fieldset .select-block + .input-block{
-  margin-top: 2.4rem;
-}
-
-#page-teacher-form main fieldset legend button {
-  background: none;
-  border: 0;
-  color: var(--color-primary);
-  font: 700 1.6rem Archivo;
-  cursor: pointer;
-  transition: color 0.2s;
-}
-
 #page-teacher-form main fieldset legend button:hover {
   color: var(--color-primary-dark);
 } 
