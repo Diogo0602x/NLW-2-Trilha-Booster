@@ -1,0 +1,248 @@
+[33mcommit 12638c4f0e7dc556747a550ad84b8ebd65fcf4e8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:39:25 2021 -0300
+
+    pasta input criado
+
+[33mcommit 91ca0a9f1799a5fd8a2b0bf4e3dcd01a36d98964[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:38:35 2021 -0300
+
+    pasta input criado
+
+[33mcommit d9d418554fca32c4a30551da40cfd3dd83c1e0e2[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:38:12 2021 -0300
+
+    aula 2 finalizada
+
+[33mcommit 4151366df540ca37ac5da574a48932fe466a97dd[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:34:18 2021 -0300
+
+    cors instalado
+
+[33mcommit f35e82d80b75d62c411778cbe92abdc312b7fdb0[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:33:43 2021 -0300
+
+    ConnectionControllers.ts criado
+
+[33mcommit bf64170b05c50e1436c095836c6504e031a82e4f[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:33:17 2021 -0300
+
+    ClassesControllers criado
+
+[33mcommit 071ba790e1937ae0badb9bb697978703c4b043dd[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:28:54 2021 -0300
+
+    trx criado - caso erro
+
+[33mcommit ab217fcbac6feb3cea4b3747ccba5087b5055e76[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:28:24 2021 -0300
+
+    convertHourToMinutes criado
+
+[33mcommit 53c9925bc4fb6bed5ddf62e6d9c8e018e6e7dcba[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:26:41 2021 -0300
+
+    routes criado
+
+[33mcommit 595a1072335dec2433026dd3e15c14c532677fd1[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:26:12 2021 -0300
+
+    migration 03 criada
+
+[33mcommit b1db6c177b4ab7c1900b447baab1f5c6201b4e76[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:25:04 2021 -0300
+
+    migration 02 criada
+
+[33mcommit 961c528fed43577a6128e64e8fde38837738737e[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:22:55 2021 -0300
+
+    migration 01 criada
+
+[33mcommit c88c6478e2ae03986fd49da034df53f546d7fc8f[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:21:20 2021 -0300
+
+    erro knex arrumado
+
+[33mcommit 68a0ae036f218576670922448801b199cfe72a52[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:20:47 2021 -0300
+
+    knex instalado
+
+[33mcommit 71818f20d65ce815fa3e9e29f54b9c33aceb3c40[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:19:19 2021 -0300
+
+    knex pronto
+
+[33mcommit 44458199ae779064090cd62238749098b503c382[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sun Mar 28 01:17:37 2021 -0300
+
+    README criado
+
+[33mcommit 38ac5ea722603dbb76a24d81fa66bd546621bcc5[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:54:27 2021 -0300
+
+    Ambiente preparado para usar com insomnia
+
+[33mcommit c731dc8d92783ac43e30c1bc3e368bea3deefdf2[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:53:41 2021 -0300
+
+    express instalado
+
+[33mcommit dba7ada9c38dbaf4cb9587ad6261f6efa49db231[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:52:27 2021 -0300
+
+    dependencias server instaladas
+
+[33mcommit 4cf91f99a3cdf9aad4546ee7aa4510baefda8473[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:50:26 2021 -0300
+
+    server criado
+
+[33mcommit c93e0d422242aa48f0561d9d5922f49898196239[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:49:35 2021 -0300
+
+    aula 1 termianda
+
+[33mcommit 3f2f7a61e1e415ef9280fbbde24bd51696286b4f[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:48:19 2021 -0300
+
+    css TeacherList mobile finalizado
+
+[33mcommit d712694cdf02306866d3973cead67180c1774d43[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:47:50 2021 -0300
+
+    css teacher list atualziado
+
+[33mcommit 385a6f1bb382a61310a1da4585ac7143479f4ba8[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:47:01 2021 -0300
+
+    arrumando css TeacherList
+
+[33mcommit f7aa95927d8b20459b935f713666dc9c5927396b[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:09:32 2021 -0300
+
+    componetns PageHeader criado
+
+[33mcommit f1bf36c5bc2ba00c92221501759f9c65d6168646[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:09:00 2021 -0300
+
+    css TeacherForm
+
+[33mcommit a2e4f2e789b1de7e3949438aaebd0ebb64235482[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:08:02 2021 -0300
+
+    css TeacherList
+
+[33mcommit ecbbe47ab232418be4e5f4bc8615bbb543c0fba2[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:04:37 2021 -0300
+
+    landing tsx e css definid
+
+[33mcommit bf5dfd36ede1071823e2e3a8bf451f6bee2051d6[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:03:28 2021 -0300
+
+    Update yarn.lock
+
+[33mcommit e976638c15231c3df790eabcbf4b53433110ce6d[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 23:00:11 2021 -0300
+
+    Update yarn.lock
+
+[33mcommit 25bbe462f3f42e9a5559dea17ff1a969e71ce66e[m
+Author: Diogo Sales Teixeira <72995630+Diogo0602x@users.noreply.github.com>
+Date:   Sat Mar 27 22:59:06 2021 -0300
+
+    Update App.tsx
+
+[33mcommit 569646a0692a58697d4c7f5c7a9ad82f84b4efc0[m
+Author: Diogo0602x <diogoteixeira0602@gmail.com>
+Date:   Sat Mar 27 22:50:19 2021 -0300
+
+    ..
+
+[33mcommit ed80dd094dbfd5b49a4af90c810614cfd8815593[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Thu Mar 25 20:17:29 2021 -0300
+
+    total de conexòes ajustado
+
+[33mcommit 8fd70f9052d19a4bfc4dc781950bff6bee913627[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Thu Mar 25 20:10:15 2021 -0300
+
+    link de whatsapp arrumado
+
+[33mcommit 718e88f8b5cfee94e7bcc0606515b11f9dff09b9[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Thu Mar 25 20:04:54 2021 -0300
+
+    listagem finalizada
+
+[33mcommit fc1532359b7b303a2b792628b5aa6b143334ac0c[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Thu Mar 25 19:57:33 2021 -0300
+
+    TeacherItemProps colocado
+
+[33mcommit 0eb57b025e183c0dae9177c8de1d0726e96a4e6c[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Thu Mar 25 18:59:06 2021 -0300
+
+    TeacherForm terminado
+
+[33mcommit ef36ae2f8c0e899d7592d9a1598a50f1d0824242[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Wed Mar 24 23:44:25 2021 -0300
+
+    updatedScheduleItem criado
+
+[33mcommit ee0fdb35392c0137e38b2101a3ec4a77ce9e64bc[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Wed Mar 24 22:12:40 2021 -0300
+
+    handleCreateClass criado
+
+[33mcommit 5ae81488f380d45e753eee7ec21facde156fac18[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Wed Mar 24 21:50:47 2021 -0300
+
+    useState colocado nos Dados
+
+[33mcommit 3098b209357a75410ad8786783dd6affe992fa0b[m
+Author: Diogo Sales Teixeira <Diogo0602@users.noreply.github.com>
+Date:   Wed Mar 24 21:42:13 2021 -0300
+
+    Total connections ajusado
+
+[33mcommit 343058db6abbd03f34e54c48c7bd4eb41f3f1245[m
+Author: Diogo Sales Teixeira <Diogo0602@users.norepl
